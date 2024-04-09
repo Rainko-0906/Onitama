@@ -1,0 +1,678 @@
+  0 1 2 3 4
+ +-+-+-+-+-+
+0|x|x|X|x|x|0
+ +-+-+-+-+-+
+1| | | | | |1
+ +-+-+-+-+-+
+2| | | | | |2
+ +-+-+-+-+-+
+3| | | | | |3
+ +-+-+-+-+-+
+4|o|o|O|o|o|4
+ +-+-+-+-+-+
+  0 1 2 3 4
+
+Player X styles:
+crab:
+.....
+.....
++.V.+
+..+..
+.....
+
+horse:
+.....
+..+..
+..V+.
+..+..
+.....
+
+Player O styles:
+mantis:
+.....
+.+.+.
+..^..
+..+..
+.....
+
+rooster:
+.....
+...+.
+.+^+.
+.+...
+.....
+
+Fifth style:
+dragon:
+.....
++...+
+..^..
+.+.+.
+.....
+
+  X moves next
+Choose your style:crab
+row origin: 0
+col origin: 1
+row destination: 1
+col destination: 1
+X makes move  : (0,1,crab) -> (1,1)
+
+  0 1 2 3 4
+ +-+-+-+-+-+
+0|x| |X|x|x|0
+ +-+-+-+-+-+
+1| |x| | | |1
+ +-+-+-+-+-+
+2| | | | | |2
+ +-+-+-+-+-+
+3| | | | | |3
+ +-+-+-+-+-+
+4|o|o|O|o|o|4
+ +-+-+-+-+-+
+  0 1 2 3 4
+
+Player X styles:
+dragon:
+.....
+.+.+.
+..V..
++...+
+.....
+
+horse:
+.....
+..+..
+..V+.
+..+..
+.....
+
+Player O styles:
+mantis:
+.....
+.+.+.
+..^..
+..+..
+.....
+
+rooster:
+.....
+...+.
+.+^+.
+.+...
+.....
+
+Fifth style:
+crab:
+.....
+..+..
++.^.+
+.....
+.....
+
+  O moves next
+Choose your style:mantis
+row origin: 4
+col origin: 3
+row destination: 3
+col destination: 2
+O makes move  : (4,3,mantis) -> (3,2)
+
+  0 1 2 3 4
+ +-+-+-+-+-+
+0|x| |X|x|x|0
+ +-+-+-+-+-+
+1| |x| | | |1
+ +-+-+-+-+-+
+2| | | | | |2
+ +-+-+-+-+-+
+3| | |o| | |3
+ +-+-+-+-+-+
+4|o|o|O| |o|4
+ +-+-+-+-+-+
+  0 1 2 3 4
+
+Player X styles:
+dragon:
+.....
+.+.+.
+..V..
++...+
+.....
+
+horse:
+.....
+..+..
+..V+.
+..+..
+.....
+
+Player O styles:
+crab:
+.....
+..+..
++.^.+
+.....
+.....
+
+rooster:
+.....
+...+.
+.+^+.
+.+...
+.....
+
+Fifth style:
+mantis:
+.....
+.+.+.
+..^..
+..+..
+.....
+
+  X moves next
+Choose your style:dragon
+row origin: 1
+col origin: 1
+row destination: 2
+col destination: 3
+X makes move  : (1,1,dragon) -> (2,3)
+
+  0 1 2 3 4
+ +-+-+-+-+-+
+0|x| |X|x|x|0
+ +-+-+-+-+-+
+1| | | | | |1
+ +-+-+-+-+-+
+2| | | |x| |2
+ +-+-+-+-+-+
+3| | |o| | |3
+ +-+-+-+-+-+
+4|o|o|O| |o|4
+ +-+-+-+-+-+
+  0 1 2 3 4
+
+Player X styles:
+horse:
+.....
+..+..
+..V+.
+..+..
+.....
+
+mantis:
+.....
+..+..
+..V..
+.+.+.
+.....
+
+Player O styles:
+crab:
+.....
+..+..
++.^.+
+.....
+.....
+
+rooster:
+.....
+...+.
+.+^+.
+.+...
+.....
+
+Fifth style:
+dragon:
+.....
++...+
+..^..
+.+.+.
+.....
+
+  O moves next
+Choose your style:rooster
+row origin: 3
+col origin: 2
+row destination: 2
+col destination: 3
+O makes move  : (3,2,rooster) -> (2,3)
+
+  0 1 2 3 4
+ +-+-+-+-+-+
+0|x| |X|x|x|0
+ +-+-+-+-+-+
+1| | | | | |1
+ +-+-+-+-+-+
+2| | | |o| |2
+ +-+-+-+-+-+
+3| | | | | |3
+ +-+-+-+-+-+
+4|o|o|O| |o|4
+ +-+-+-+-+-+
+  0 1 2 3 4
+
+Player X styles:
+horse:
+.....
+..+..
+..V+.
+..+..
+.....
+
+mantis:
+.....
+..+..
+..V..
+.+.+.
+.....
+
+Player O styles:
+dragon:
+.....
++...+
+..^..
+.+.+.
+.....
+
+crab:
+.....
+..+..
++.^.+
+.....
+.....
+
+Fifth style:
+rooster:
+.....
+...+.
+.+^+.
+.+...
+.....
+
+  X moves next
+Choose your style:horse
+row origin: 0
+col origin: 4
+row destination: 1
+col destination: 4
+X makes move  : (0,4,horse) -> (1,4)
+
+  0 1 2 3 4
+ +-+-+-+-+-+
+0|x| |X|x| |0
+ +-+-+-+-+-+
+1| | | | |x|1
+ +-+-+-+-+-+
+2| | | |o| |2
+ +-+-+-+-+-+
+3| | | | | |3
+ +-+-+-+-+-+
+4|o|o|O| |o|4
+ +-+-+-+-+-+
+  0 1 2 3 4
+
+Player X styles:
+mantis:
+.....
+..+..
+..V..
+.+.+.
+.....
+
+rooster:
+.....
+...+.
+.+V+.
+.+...
+.....
+
+Player O styles:
+dragon:
+.....
++...+
+..^..
+.+.+.
+.....
+
+crab:
+.....
+..+..
++.^.+
+.....
+.....
+
+Fifth style:
+horse:
+.....
+..+..
+.+^..
+..+..
+.....
+
+  O moves next
+Choose your style:crab
+row origin: 2
+col origin: 3
+row destination: 2
+col destination: 1
+O makes move  : (2,3,crab) -> (2,1)
+
+  0 1 2 3 4
+ +-+-+-+-+-+
+0|x| |X|x| |0
+ +-+-+-+-+-+
+1| | | | |x|1
+ +-+-+-+-+-+
+2| |o| | | |2
+ +-+-+-+-+-+
+3| | | | | |3
+ +-+-+-+-+-+
+4|o|o|O| |o|4
+ +-+-+-+-+-+
+  0 1 2 3 4
+
+Player X styles:
+mantis:
+.....
+..+..
+..V..
+.+.+.
+.....
+
+rooster:
+.....
+...+.
+.+V+.
+.+...
+.....
+
+Player O styles:
+dragon:
+.....
++...+
+..^..
+.+.+.
+.....
+
+horse:
+.....
+..+..
+.+^..
+..+..
+.....
+
+Fifth style:
+crab:
+.....
+..+..
++.^.+
+.....
+.....
+
+  X moves next
+Choose your style:mantis
+row origin: 1
+col origin: 4
+row destination: 2
+col destination: 3
+X makes move  : (1,4,mantis) -> (2,3)
+
+  0 1 2 3 4
+ +-+-+-+-+-+
+0|x| |X|x| |0
+ +-+-+-+-+-+
+1| | | | | |1
+ +-+-+-+-+-+
+2| |o| |x| |2
+ +-+-+-+-+-+
+3| | | | | |3
+ +-+-+-+-+-+
+4|o|o|O| |o|4
+ +-+-+-+-+-+
+  0 1 2 3 4
+
+Player X styles:
+crab:
+.....
+.....
++.V.+
+..+..
+.....
+
+rooster:
+.....
+...+.
+.+V+.
+.+...
+.....
+
+Player O styles:
+dragon:
+.....
++...+
+..^..
+.+.+.
+.....
+
+horse:
+.....
+..+..
+.+^..
+..+..
+.....
+
+Fifth style:
+mantis:
+.....
+.+.+.
+..^..
+..+..
+.....
+
+  O moves next
+Choose your style:dragon
+row origin: 4
+col origin: 2
+row destination: 3
+col destination: 4
+O makes move  : (4,2,dragon) -> (3,4)
+
+  0 1 2 3 4
+ +-+-+-+-+-+
+0|x| |X|x| |0
+ +-+-+-+-+-+
+1| | | | | |1
+ +-+-+-+-+-+
+2| |o| |x| |2
+ +-+-+-+-+-+
+3| | | | |O|3
+ +-+-+-+-+-+
+4|o|o| | |o|4
+ +-+-+-+-+-+
+  0 1 2 3 4
+
+Player X styles:
+crab:
+.....
+.....
++.V.+
+..+..
+.....
+
+rooster:
+.....
+...+.
+.+V+.
+.+...
+.....
+
+Player O styles:
+horse:
+.....
+..+..
+.+^..
+..+..
+.....
+
+mantis:
+.....
+.+.+.
+..^..
+..+..
+.....
+
+Fifth style:
+dragon:
+.....
++...+
+..^..
+.+.+.
+.....
+
+  X moves next
+Choose your style:crab
+row origin: 2
+col origin: 3
+row destination: 3
+col destination: 3
+X makes move  : (2,3,crab) -> (3,3)
+
+  0 1 2 3 4
+ +-+-+-+-+-+
+0|x| |X|x| |0
+ +-+-+-+-+-+
+1| | | | | |1
+ +-+-+-+-+-+
+2| |o| | | |2
+ +-+-+-+-+-+
+3| | | |x|O|3
+ +-+-+-+-+-+
+4|o|o| | |o|4
+ +-+-+-+-+-+
+  0 1 2 3 4
+
+Player X styles:
+dragon:
+.....
+.+.+.
+..V..
++...+
+.....
+
+rooster:
+.....
+...+.
+.+V+.
+.+...
+.....
+
+Player O styles:
+horse:
+.....
+..+..
+.+^..
+..+..
+.....
+
+mantis:
+.....
+.+.+.
+..^..
+..+..
+.....
+
+Fifth style:
+crab:
+.....
+..+..
++.^.+
+.....
+.....
+
+  O moves next
+Choose your style:horse
+row origin: 3
+col origin: 4
+row destination: 2
+col destination: 4
+O makes move  : (3,4,horse) -> (2,4)
+
+  0 1 2 3 4
+ +-+-+-+-+-+
+0|x| |X|x| |0
+ +-+-+-+-+-+
+1| | | | | |1
+ +-+-+-+-+-+
+2| |o| | |O|2
+ +-+-+-+-+-+
+3| | | |x| |3
+ +-+-+-+-+-+
+4|o|o| | |o|4
+ +-+-+-+-+-+
+  0 1 2 3 4
+
+Player X styles:
+dragon:
+.....
+.+.+.
+..V..
++...+
+.....
+
+rooster:
+.....
+...+.
+.+V+.
+.+...
+.....
+
+Player O styles:
+crab:
+.....
+..+..
++.^.+
+.....
+.....
+
+mantis:
+.....
+.+.+.
+..^..
+..+..
+.....
+
+Fifth style:
+horse:
+.....
+..+..
+.+^..
+..+..
+.....
+
+  X moves next
+Choose your style:rooster
+row origin: 3
+col origin: 3
+row destination: 2
+col destination: 4
+X makes move  : (3,3,rooster) -> (2,4)
+
+  0 1 2 3 4
+ +-+-+-+-+-+
+0|x| |X|x| |0
+ +-+-+-+-+-+
+1| | | | | |1
+ +-+-+-+-+-+
+2| |o| | |x|2
+ +-+-+-+-+-+
+3| | | | | |3
+ +-+-+-+-+-+
+4|o|o| | |o|4
+ +-+-+-+-+-+
+  0 1 2 3 4
+
+  X won
+
+
+Process finished with exit code 0
